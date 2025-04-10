@@ -12,4 +12,5 @@ Tamamen yerel çalışır, internet gerekmez, verileriniz güvende! 🛡️
 
 ## 🛠️ Nasıl Kullanılır?
 1. Uygulamayı çalıştır (aşağıdaki komutu terminalde yazabilirsin):
-   python pdf_to_png_converter.py
+2. 
+   **python pdf_to_png_converter.py**
